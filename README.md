@@ -3,6 +3,13 @@ Frontend: React.js
 
 Aplicação baseada no Airbnb, feita na semana Omnistack da RocketSeat!
 
+Installation:
+
+- [ ] yarn create react-app frontend
+- [ ] yarn add axios
+- [ ] yarn add react-router-dom
+- [ ] yarn add socket.io-client
+
 <strong>Tela de Login:<strong>
   
 ![login](https://github.com/duduzc/Aircnc-React.js/blob/master/screenshots/Screen%20Shot%202019-12-17%20at%2021.07.14.png)
